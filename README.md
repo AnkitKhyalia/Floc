@@ -11,8 +11,8 @@
 <table>
   <tr>
     <td>Login Screen</td>
-    <td>Registration Screen</td>
-    <td>Profile Screen</td>
+    <td>ForgotPassword Screen</td>
+    <td>Register Screen</td>
   </tr>
   <tr>
     <td valign="top"><img src="ScreenShots/img.jpg" alt="Image 1" style="width: 200px; height: 450px;"></td>
@@ -20,9 +20,9 @@
     <td valign="top"><img src="ScreenShots/img_2.jpg" alt="Image 3" style="width: 200px; height: 450px;"></td>
   </tr>
    <tr>
-    <td>Home Screen (Farmer)</td>
-    <td>Update Product Screen(Farmer)</td>
-    <td>Add Product Screen (Farmer)</td>
+    <td>Location Permission</td>
+    <td>Home Page</td>
+    <td>Saved Locations</td>
   </tr>
   <tr>
     <td valign="top"><img src="ScreenShots/img_3.jpg" alt="Image 4" style="width: 200px; height: 450px;"></td>
@@ -30,9 +30,9 @@
     <td valign="top"><img src="ScreenShots/img_5.jpg" alt="Image 6" style="width: 200px; height: 450px;"></td>
   </tr>
   <tr>
-    <td>Add Product Screen (Farmer)</td>
-    <td>Home Screen (Customer)</td>
-    <td>Product Screen(Customer)</td>
+    <td>Navigation Drawer</td>
+    <td>Payment Screen</td>
+    <td>Tutorial Screen</td>
   </tr>
   <tr>
     <td valign="top"><img src="ScreenShots/img_6.jpg" alt="Image 7" style="width: 250px; height: 450px;"></td>
@@ -41,14 +41,15 @@
     
   </tr>
   <tr>
-    <td>Mandi Screen</td>
-    <td>Ai Assistant Screen</td>
+    <td>About us Screen</td>
+    <td>New Payment Screen</td>
+    <td>Razorpay Payment Screen</td>
 <!--     <td>Image 12</td> -->
   </tr>
   <tr>
     <td valign="top"><img src="ScreenShots/img_9.jpg" alt="Image 10" style="width: 250px; height: 450px;"></td>
     <td valign="top"><img src="ScreenShots/img_10.jpg" alt="Image 11" style="width: 250px; height: 450px;"></td>
-<!--     <td valign="top"><img src="ScreenShots/img_10.jpg" alt="Image 12" style="width: 250px; height: 450px;"></td> -->
+    <td valign="top"><img src="ScreenShots/img_11.jpg" alt="Image 12" style="width: 250px; height: 450px;"></td>
   </tr>
   <tr>
     <td>Image 13</td>
